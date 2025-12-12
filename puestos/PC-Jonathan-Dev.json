@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "exported_at": "2025-12-12T14:49:56.300454",
+  "puesto_trabajo": {
+    "id": "2aa1da6e-fe7a-4c4f-a1d9-595c4e33635a",
+    "nombre": "PC-Jonathan-Dev",
+    "descripcion": "Migrado desde config.json el 2025-12-12 12:57",
+    "hostname": "DESKTOP-URG0O4N",
+    "environment": "desarrollo",
+    "token_local": "1|GSZ1rvguxTTxnHpxTP7FcnVfSe8pqwF1UYssOyNg339e57a0",
+    "token_desarrollo": "1|NFwB3KI00pRb8EQXClvtd8qwgs1WnLpU4bLumYraf72b22a6",
+    "token_produccion": "3|WbOePOwP6eRd9iwCGIgH9kKGkccIjRd3OvzJcVm0941774b5",
+    "centro_produccion_id": 2,
+    "campaign_folder_path": "\\\\Ripeoprincipal\\trabajos clientes-ripeo principal\\TEST_JONY\\TRABAJOS CLIENTE",
+    "central_repository_path": "C:\\ESTRUCTURA DE CARPETAS PLOTTERS\\PERFILES LOCAL",
+    "local_pm_devices_path": "C:\\Program Files\\SAi\\FlexiPRINT 22 MeiTu Edition_1\\Devices",
+    "flexiprint_jobs_path": "C:/Program Files/SAi/FlexiPRINT 22 MeiTu Edition_1/Jobs and Settings/Jobs",
+    "qr_hotfolder": "C:\\ESTRUCTURA DE CARPETAS PLOTTERS\\QR_HOTFOLDER",
+    "qr_ripfolder": "C:\\ESTRUCTURA DE CARPETAS PLOTTERS\\QR_RIP_FOLDER"
+  },
+  "plotters": [],
+  "presets": [],
+  "asociaciones_preset_material": []
+}
